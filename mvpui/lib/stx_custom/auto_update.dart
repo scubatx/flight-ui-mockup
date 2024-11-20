@@ -1,4 +1,3 @@
-
 import 'package:flutter/services.dart';
 import 'package:mvpui/backend/schema/enums/enums.dart';
 import 'package:mvpui/backend/schema/structs/alert_struct.dart';

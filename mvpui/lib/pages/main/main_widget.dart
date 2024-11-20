@@ -1,4 +1,4 @@
-import '../../components/auto_update.dart';
+import 'package:mvpui/stx_custom/auto_update.dart';
 import '/backend/schema/enums/enums.dart';
 import '/backend/schema/structs/index.dart';
 import '/components/alerts_widget.dart';
