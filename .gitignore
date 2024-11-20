@@ -1,1 +1,5 @@
-/mvpui/build/
+build/
+.idea/
+.dart_tool/
+.flutter-plugins*
+devtools_options.yaml
